@@ -1,0 +1,2 @@
+# Prediction-of-Cancer-using-ANN-Classification-Model
+I have used artificial neural network classification model to predict type cancer. Firstly I go with simple neural network with  two hidden layers and 550 epochs but it leads to overfitting the model then I use EarlyStopping method to eliminate overfitting and after that I used Dropout Method to achieve almost 99 percent accuracy on the prediction of label. 
